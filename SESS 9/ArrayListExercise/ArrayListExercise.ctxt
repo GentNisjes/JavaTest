@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArrayListExercise
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayListExercise\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArrayListExercise()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArrayListExercise\r\n
+comment2.params=friend1\ friend2\ friend3
+comment2.target=void\ addFriends(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ to\ add\ the\ names\ of\ three\ friends\ at\ the\ end\ of\ the\ list\ in\ the\ order\ of\ the\ arguments\r\n\r\n\ @param\ friend1\ \ name\ of\ friend\ 1\r\n\ @param\ friend2\ \ \ name\ of\ friend\ 2\r\n\ @param\ friend3\ \ \ name\ of\ friend\ 3\r\n\ \r\n
+comment3.params=
+comment3.target=void\ printFriends()
+comment3.text=\r\n\ Method\ to\ print\ the\ content\ of\ myList,\ each\ element\ on\ a\ new\ line\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getMyFriends()
+comment4.text=\r\n\ Getter\ for\ myFriends\r\n
+comment5.params=
+comment5.target=int\ getNrOfFriends()
+comment5.text=\r\n\ Getter\ for\ size\ of\ MyFriends\r\n
+comment6.params=newFriend
+comment6.target=void\ addUniqueFriend(java.lang.String)
+comment6.text=\r\n\ Method\ to\ add\ an\ unique\ friend\ to\ myFriends\r\n
+numComments=7

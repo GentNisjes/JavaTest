@@ -1,0 +1,9 @@
+Leandro;Trossard;2023-03-03;300.0
+Thibaut;Courtois;2023-02-28;150.0
+Romelu;Lukaku;2023-01-25;150.0
+Kevin;De Bruyne;2021-01-20;230.0
+Jeremy;Doku;2023-01-31;200.0
+Kevin;De Bruyne;2021-01-20;23.5
+Romelu;Lukaku;2023-01-5;60.5
+Tuur;Dierckx;2023-05-05;300.0
+Jeremy;Doku;2023-01-31;200.0

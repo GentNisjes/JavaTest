@@ -1,0 +1,12 @@
+firstName;lastName;emailAddress;startYear;startMonth;clubName
+Jeremy;Doku;countdoku@gmail.com;2020;2;The Red Devils
+Romelu;Lukaku;globetrotter@reddevils.be;2010;8;The Red Devils
+Stef;Desmet;stef.desmet@kuleuven.be;1999;9;Groep T
+Joost;Vennekens;joost.vennekens@kuleuven.be;2015;9;Groep T
+Kevin;De Bruyne;kdb@united.uk;2010;8;The Red Devils
+Youri;Tielemans;rocket@reddevils.be;2017;4;The Red Devils
+Jeff;Nobody;jeff@nobody.be;2080;11;From outer space
+Thibaut;Courtois;therealcaptain@reddevils.be;2011;11;The Red Devils
+Jeremy;Doku;im_seeing_double_here_four_dokus@gmail.com;2021;3;The Red Devils
+Leandro;Trossard;leandro@trossard.com;2020;9;The Red Devils
+Willy;Willems;willy.willems@student.kuleuven.be;2022;9;Groep T studenten
